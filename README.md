@@ -1,6 +1,6 @@
 # pip-not-working-solved
 
-Is your python's pip not working? This should be able to help you!
+If your python's pip command is not working, this should be able to help you!
 
 **Issue**
 
