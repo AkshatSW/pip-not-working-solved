@@ -10,8 +10,9 @@ The pip command not working properly, and showing something like this when typin
 
 **Steps**
 1. Download the python file from from the repository, and save it in a folder.
-2.Go to start and run your command prompt as administrator.
-3. Navigate to the folder and run the following command: python get-pip.py
+2. 
+3.Go to start and run your command prompt as administrator.
+4. Navigate to the folder and run the following command: python get-pip.py
 
 You should see something like this:
 ![image](https://user-images.githubusercontent.com/71224006/141925757-28e52f2a-236d-4691-8d03-907812b64062.png)
