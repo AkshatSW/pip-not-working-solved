@@ -1,3 +1,7 @@
+# EDIT 
+Update you pip after this process
+
+
 # pip-not-working-solved
 
 If your python's pip command is not working, this should be able to help you!
